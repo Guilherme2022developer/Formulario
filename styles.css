@@ -32,13 +32,13 @@ ul {
     box-shadow: 10px 22px 34px 0 rgba(0, 0, 0, 0.5);
     margin: 20px auto;
     overflow: hidden;
-    width: 600px;
+    width: 550px;
 }
 
 .header {
     background: url(images/header.png) center right no-repeat;
     background-size: cover;
-    height: 200px;
+    height: 187px;
     margin-bottom: 16px;
     padding: 23px 36px;
     width: 100%;
